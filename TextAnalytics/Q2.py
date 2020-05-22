@@ -7,7 +7,7 @@ def total_frequency(documents):
     :param documents: the set of documents
     :return:
     """
-    fo = open("../outputdata/YunfangZhang_Q2a.txt", "w")
+    fo = open("../outputdata/Q2a.txt", "w")
     total_list = {}
     count_document = 0
     # the for loop is to count the df of every words
@@ -42,7 +42,7 @@ def calculate_tfidf(documents):
     :return: a dictionary of each file, key is terms and value is its tf*idf
     """
     doc_dictionary = {}
-    fo = open("../outputdata/YunfangZhang_Q2b.txt", "w")
+    fo = open("../outputdata/Q2b.txt", "w")
     for doc in documents.items():  # dict.items()
         m = 0   # for print top 20 list in for loop
         total_idf = 0
