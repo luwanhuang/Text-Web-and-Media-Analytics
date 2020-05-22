@@ -4,8 +4,7 @@ from stemming.porter2 import stem
 
 class BowDocument:
     """
-    Part answer of Q1
-    for build the document object
+    For build the document object
     include document ID, length and terms information
     """
 
