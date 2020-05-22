@@ -89,7 +89,7 @@ def ranking_bm25(documents, line):
     :return:
     """
     ave_length = calculate_average_length(documents)
-    fo = open("../outputdata/YunfangZhang_Q3.txt", "w")
+    fo = open("../outputdata/Q3.txt", "w")
     for i in line:
         print('=' * 50)
         fo.write('=' * 50 + '\n')
