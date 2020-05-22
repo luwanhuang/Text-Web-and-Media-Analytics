@@ -1,0 +1,64 @@
+==================================================
+Average document length 272 for query: British fashion 
+Document: 783802, Length: 120 and BM25 Score: 6.089544
+Document: 741309, Length: 104 and BM25 Score: 2.104936
+Document: 741299, Length: 199 and BM25 Score: 0.000000
+Document: 780718, Length: 107 and BM25 Score: 0.000000
+Document: 780723, Length: 124 and BM25 Score: 0.000000
+Document: 783803, Length: 490 and BM25 Score: 0.000000
+Document: 807600, Length: 538 and BM25 Score: 0.000000
+Document: 807606, Length: 187 and BM25 Score: 0.000000
+Document: 809481, Length: 151 and BM25 Score: 0.000000
+Document: 809495, Length: 703 and BM25 Score: 0.000000
+For query "British fashion", three recommended relevant documents and their BM25 score:
+783802 : 6.089544
+741309 : 2.104936
+741299 : 0.000000
+==================================================
+Average document length 272 for query: fashion awards 
+Document: 783802, Length: 120 and BM25 Score: 6.031334
+Document: 783803, Length: 490 and BM25 Score: 1.607876
+Document: 741299, Length: 199 and BM25 Score: 0.000000
+Document: 741309, Length: 104 and BM25 Score: 0.000000
+Document: 780718, Length: 107 and BM25 Score: 0.000000
+Document: 780723, Length: 124 and BM25 Score: 0.000000
+Document: 807600, Length: 538 and BM25 Score: 0.000000
+Document: 807606, Length: 187 and BM25 Score: 0.000000
+Document: 809481, Length: 151 and BM25 Score: 0.000000
+Document: 809495, Length: 703 and BM25 Score: 0.000000
+For query "fashion awards", three recommended relevant documents and their BM25 score:
+783802 : 6.031334
+783803 : 1.607876
+741299 : 0.000000
+==================================================
+Average document length 272 for query: Stock market 
+Document: 807600, Length: 538 and BM25 Score: 1.602080
+Document: 780723, Length: 124 and BM25 Score: 1.568703
+Document: 807606, Length: 187 and BM25 Score: 1.490873
+Document: 783803, Length: 490 and BM25 Score: 0.483141
+Document: 741299, Length: 199 and BM25 Score: 0.000000
+Document: 741309, Length: 104 and BM25 Score: 0.000000
+Document: 780718, Length: 107 and BM25 Score: 0.000000
+Document: 783802, Length: 120 and BM25 Score: 0.000000
+Document: 809481, Length: 151 and BM25 Score: 0.000000
+Document: 809495, Length: 703 and BM25 Score: 0.000000
+For query "Stock market", three recommended relevant documents and their BM25 score:
+807600 : 1.602080
+780723 : 1.568703
+807606 : 1.490873
+==================================================
+Average document length 272 for query: British Fashion Awards 
+Document: 783802, Length: 120 and BM25 Score: 8.459086
+Document: 741309, Length: 104 and BM25 Score: 2.104936
+Document: 783803, Length: 490 and BM25 Score: 1.607876
+Document: 741299, Length: 199 and BM25 Score: 0.000000
+Document: 780718, Length: 107 and BM25 Score: 0.000000
+Document: 780723, Length: 124 and BM25 Score: 0.000000
+Document: 807600, Length: 538 and BM25 Score: 0.000000
+Document: 807606, Length: 187 and BM25 Score: 0.000000
+Document: 809481, Length: 151 and BM25 Score: 0.000000
+Document: 809495, Length: 703 and BM25 Score: 0.000000
+For query "British Fashion Awards", three recommended relevant documents and their BM25 score:
+783802 : 8.459086
+741309 : 2.104936
+783803 : 1.607876
