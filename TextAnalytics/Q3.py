@@ -5,8 +5,7 @@ from stemming.porter2 import stem
 
 def calculate_average_length(documents):
     """
-    For Q3a
-    to calculate average length of all doc
+    To calculate average length of all doc
     :param documents: the set of documents
     :return: average length of all doc
     """
@@ -20,8 +19,7 @@ def calculate_average_length(documents):
 
 def print_doc_length(documents):
     """
-    For Q3a
-    to print out the length of each document and average length
+    To print out the length of each document and average length
     :param documents:
     :return:
     """
@@ -33,8 +31,7 @@ def print_doc_length(documents):
 
 def calculate_BM25(documents, query):
     """
-    For Q3c
-    to calculate the BM25
+    To calculate the BM25
     :param documents: the set of documents
     :param query: one query of the string list from the user
     :return: the dictionary of doc and BM25 score
@@ -86,8 +83,7 @@ def calculate_BM25(documents, query):
 
 def ranking_bm25(documents, line):
     """
-    For Q3d
-    to rank the BM25 score
+    To rank the BM25 score
     :param documents:
     :param line:
     :return:
