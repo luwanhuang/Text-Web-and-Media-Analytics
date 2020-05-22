@@ -3,8 +3,7 @@ import math
 
 def total_frequency(documents):
     """
-    For Q2a
-    to calculate the document frequency
+    To calculate the document frequency
     :param documents: the set of documents
     :return:
     """
@@ -38,8 +37,7 @@ def total_frequency(documents):
 
 def calculate_tfidf(documents):
     """
-    For Q2b
-    to calculate tf*idf
+    To calculate tf*idf
     :param documents: the set of documents
     :return: a dictionary of each file, key is terms and value is its tf*idf
     """
