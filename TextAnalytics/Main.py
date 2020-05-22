@@ -8,7 +8,7 @@ import BowDocument as Bo
 
 def display_doc_info(document):
     """
-    For question 1, display document ID and how many terms included
+    Display document ID and how many terms included
     and how many of each term
     :param document:the documents set after stemming
     :return:
