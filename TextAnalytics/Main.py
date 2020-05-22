@@ -13,7 +13,7 @@ def display_doc_info(document):
     :param document:the documents set after stemming
     :return:
     """
-    fo = open("../outputdata/YunfangZhang_Q1.txt", "w")
+    fo = open("../outputdata/Q1.txt", "w")
     for doc in document.items():  # dict.items()
         docID = doc[0]  # get document ID
         document = doc[1]  # get document object
@@ -46,14 +46,14 @@ if __name__ == '__main__':
         d = a.parse_doc(f, stopWords)  # d = myDoc
         if d.get_id() != '':
             listOfDoc[d.get_id()] = d
-    display_doc_info(listOfDoc)    # Q1
-    Q2.total_frequency(listOfDoc)    # Q2a
-    Q2.calculate_tfidf(listOfDoc)    # Q2b
-    Q3.print_doc_length(listOfDoc)   # Q3a
-    Q3.calculate_BM25(listOfDoc, "stock market")  # Q3c
+    display_doc_info(listOfDoc)    
+    Q2.total_frequency(listOfDoc)    
+    Q2.calculate_tfidf(listOfDoc)    
+    Q3.print_doc_length(listOfDoc)   
+    Q3.calculate_BM25(listOfDoc, "stock market")  
     # the line is a list and for user to change query as they like
     line = ["British fashion", "fashion awards", "Stock market", "British Fashion Awards"]
-    Q3.ranking_bm25(listOfDoc, line)   # Q3d
+    Q3.ranking_bm25(listOfDoc, line)   
 
 
 
